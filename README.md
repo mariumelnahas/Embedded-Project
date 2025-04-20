@@ -1,3 +1,2 @@
 # Embedded-Project
-GPS project
-Spring 2025
+GPS project - Spring 2025
